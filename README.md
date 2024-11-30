@@ -74,3 +74,4 @@ Here's a Demo on how the Web Application works
 
 ![](Deployment/GarbageDemo.gif)
 "# Garbage_Segregation" 
+"# Garbage_Segregation" 
